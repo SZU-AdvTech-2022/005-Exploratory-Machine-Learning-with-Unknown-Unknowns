@@ -1,0 +1,12 @@
+@article{10.1609/aaai.v35i12.17313, 
+author={Zhao, Peng and Zhang, Yu-Jie and Zhou, Zhi-Hua}, 
+title={Exploratory Machine Learning with Unknown Unknowns}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+year={2021}, 
+month={May}, 
+volume={35}, 
+pages={10999-11006}, 
+number={12} 
+}
+
+
